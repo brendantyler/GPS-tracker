@@ -36,8 +36,8 @@ main {
 
 .overlay {
   z-index: 0;
-  position: absolute;
-  background: #9c7171;
+  position: fixed;
+  background: #a9a7a7;
   margin-top: 0;
   width: 100%;
   height: 100vh;
